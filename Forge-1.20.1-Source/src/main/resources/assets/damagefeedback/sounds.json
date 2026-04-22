@@ -1,0 +1,14 @@
+{
+  "hit_feedback_1": {
+    "subtitle": "subtitles.damagefeedback.hit_feedback_1",
+    "sounds": [ "damagefeedback:hit_feedback_1" ]
+  },
+  "hit_feedback_2": {
+    "subtitle": "subtitles.damagefeedback.hit_feedback_2",
+    "sounds": [ "damagefeedback:hit_feedback_2" ]
+  },
+  "hit_feedback_3": {
+    "subtitle": "subtitles.damagefeedback.hit_feedback_3",
+    "sounds": [ "damagefeedback:hit_feedback_3" ]
+  }
+}
